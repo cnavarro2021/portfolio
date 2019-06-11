@@ -1,7 +1,78 @@
-body{
-  background: red;
+.header {
+  background-color: #290e05;
+  text-align: center;
+  border: 50px;
+  
+  
+}
+.about-me {
+  font-size: 20px;
+  opacity: 0.50;
+  color: salmon;
+  
+  
 }
 
+.title {
+ font-weight: bold;
+  height: 15px;
+  opacity: 0.5;
+  margin: 35px;
+  padding: 23px;
+  
+  
+  
+  
+
+  
+  
+}
 h1 {
-  color: silver;
+  color: blue;
+  height: 45px;
+  font-size: 45px;
+  
+}
+body {
+  font-family: courier;
+
+    
+}
+.information {
+  padding: 50px;
+  border: 100px;
+  color: yellow;
+  
+}
+.terms {
+  color: red;
+  border: 30px dashed pink;
+  margin: 15px;
+  padding: 45px;
+
+}
+.description {
+  margin: 30px;
+  padding: 30px;
+  color: yellow;
+  
+}
+.budget {
+  margin: 38px;
+  padding: 25px;;
+  color: yellow;
+ 
+}
+.contact {
+  padding: 15px;
+  margin: 100px
+}
+
+#name3 {
+  font-family: Trebuchet;
+  font-size: 50px;
+}
+
+#typeCollege {
+  color: orange;
 }
